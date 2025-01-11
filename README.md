@@ -1,7 +1,7 @@
 # Jamba PyTorch
 
 <p align="center">
-  <img src="Jamba.png" alt="Jamba" style="display:block; margin:auto; width:680px;" />
+  <img src="Jamba.png" alt="Jamba" style="display:block; margin:auto; width:550px;" />
 </p>
 
 PyTorch implementation of Jamba.
